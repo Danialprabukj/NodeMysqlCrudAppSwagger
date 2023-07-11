@@ -21,7 +21,7 @@ This will install the dependencies.
 
 This will install the DevDependencies.
 
-"start": "nodemon server"
+"start": "node server"
 Add this line inside script in package.json file.
 
 
